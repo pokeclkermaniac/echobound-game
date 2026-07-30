@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="icon-home" viewBox="0 0 48 48"><path d="M7 23 24 8l17 15v18H29V29H19v12H7z"/></symbol>
+  <symbol id="icon-map" viewBox="0 0 48 48"><path d="m6 11 11-5 14 5 11-5v31l-11 5-14-5-11 5zm11-5v31m14-26v31"/></symbol>
+  <symbol id="icon-lineage" viewBox="0 0 48 48"><circle cx="24" cy="8" r="5"/><circle cx="11" cy="37" r="5"/><circle cx="37" cy="37" r="5"/><path d="M24 13v10M11 32v-9h26v9"/></symbol>
+  <symbol id="icon-book" viewBox="0 0 48 48"><path d="M7 8h12q5 0 5 5v28q0-5-5-5H7zm34 0H29q-5 0-5 5v28q0-5 5-5h12z"/></symbol>
+  <symbol id="icon-settings" viewBox="0 0 48 48"><circle cx="24" cy="24" r="7"/><path d="m21 5 6 0 2 6 5 2 6-3 4 5-4 5 1 5 5 4-2 6-7-1-4 4-1 7h-7l-2-7-4-3-7 2-3-6 5-4v-6l-5-4 3-6 7 2 4-3z"/></symbol>
+  <symbol id="icon-heart" viewBox="0 0 48 48"><path d="M24 41 7 25C-2 14 12 3 24 15 36 3 50 14 41 25z"/></symbol>
+  <symbol id="icon-energy" viewBox="0 0 48 48"><path d="M28 3 10 27h13l-3 18 18-25H25z"/></symbol>
+  <symbol id="icon-shield" viewBox="0 0 48 48"><path d="M24 4 42 11v12q0 14-18 21Q6 37 6 23V11z"/><path d="m15 24 6 6 13-14"/></symbol>
+  <symbol id="icon-speed" viewBox="0 0 48 48"><path d="M5 15h19M2 24h16M7 33h17"/><path d="M20 36q-7-8 1-17 7-7 19-4l-5 7 8 4-7 4 4 8q-12 4-20-2z"/></symbol>
+  <symbol id="icon-strength" viewBox="0 0 48 48"><path d="M8 26q-5-9 4-14l5 8V8q5-4 7 3V7q5-3 7 3V9q5-2 6 4v10q4-4 7 0-2 19-19 21Q12 42 8 26z"/></symbol>
+  <symbol id="icon-magic" viewBox="0 0 48 48"><path d="m27 4 4 11 11 4-11 4-4 11-4-11-11-4 11-4zM11 30l2 6 6 2-6 2-2 6-2-6-6-2 6-2zM39 33l2 4 4 2-4 2-2 4-2-4-4-2 4-2z"/></symbol>
+  <symbol id="icon-bonk" viewBox="0 0 48 48"><circle cx="17" cy="29" r="10"/><path d="m24 22 12-12 5 5-12 12M9 12l4 7M19 7l1 8M4 21l8 3"/></symbol>
+  <symbol id="icon-puff" viewBox="0 0 48 48"><path d="M13 37q-10-3-7-13 1-7 9-7 2-12 13-7 7-3 11 4 8 3 5 11 3 9-7 12z"/></symbol>
+  <symbol id="icon-quickstep" viewBox="0 0 48 48"><path d="M12 13q9 0 16 9l10 2q5 2 2 8-3 5-13 1l-8 6Q8 42 5 34q-2-6 8-8l6-2q-4-5-7-11z"/><path d="M5 16h10M2 23h10"/></symbol>
+  <symbol id="icon-uhoh" viewBox="0 0 48 48"><circle cx="24" cy="24" r="19"/><circle cx="17" cy="20" r="3"/><circle cx="31" cy="20" r="3"/><path d="M16 35q8-11 16 0"/></symbol>
+  <symbol id="status-burn" viewBox="0 0 48 48"><path d="M27 4q3 12-5 16 0-7-5-10-1 10-7 16-4 17 14 18 17-1 14-18-2-11-11-22zm-3 35q-8-1-4-10 2 5 5 1 5 7-1 9z"/></symbol>
+  <symbol id="status-sticky" viewBox="0 0 48 48"><path d="M24 4C12 17 8 23 8 31a16 16 0 0 0 32 0c0-8-4-14-16-27z"/><path d="M17 31q7 8 14 0"/></symbol>
+  <symbol id="status-dizzy" viewBox="0 0 48 48"><path d="M7 21q5-12 18-12 13 1 16 12-4 9-15 7-8-2-5-9 2-5 8-3 5 2 2 6"/><path d="m9 31 3 4-1 6 6-3 5 2-1-6 4-4-6-1-3-5-2 5z"/></symbol>
+  <symbol id="status-vulnerable" viewBox="0 0 48 48"><path d="M8 7 24 22 40 7M8 41l16-15 16 15"/><path d="m24 5 4 12 12 4-12 4-4 12-4-12-12-4 12-4z"/></symbol>
+  <symbol id="status-guarded" viewBox="0 0 48 48"><path d="M24 4 41 11v13q0 13-17 20Q7 37 7 24V11z"/><path d="M15 24h18"/></symbol>
+  <symbol id="status-haste" viewBox="0 0 48 48"><path d="m28 4-18 23h13l-3 17 18-24H25z"/><path d="M4 12h13M2 19h12"/></symbol>
+  <symbol id="status-chaos" viewBox="0 0 48 48"><path d="M6 12q10-10 17 1 7 11 18 1M6 36q10 10 17-1 7-11 18-1M7 24h34"/><circle cx="8" cy="12" r="3"/><circle cx="40" cy="14" r="3"/><circle cx="8" cy="36" r="3"/><circle cx="40" cy="34" r="3"/></symbol>
+  <symbol id="node-battle" viewBox="0 0 48 48"><path d="m10 8 28 32M38 8 10 40M13 5l5 5-8 8-5-5zm22 0-5 5 8 8 5-5z"/></symbol>
+  <symbol id="node-event" viewBox="0 0 48 48"><path d="M15 17q1-13 11-13 11 0 12 10 0 7-7 11-5 3-5 8"/><circle cx="26" cy="41" r="4"/></symbol>
+  <symbol id="node-rest" viewBox="0 0 48 48"><path d="M34 6q-7 8-3 17 4 10 14 11-8 10-21 7Q9 38 7 24 6 10 20 5q7-3 14 1z"/></symbol>
+  <symbol id="node-elite" viewBox="0 0 48 48"><path d="m24 3 6 13 14 2-10 10 3 15-13-7-13 7 3-15L4 18l14-2z"/></symbol>
+  <symbol id="node-boss" viewBox="0 0 48 48"><path d="M7 17 14 7l10 9L34 7l7 10-4 24H11z"/><path d="M12 27h24M17 34h14"/></symbol>
+  <symbol id="node-treasure" viewBox="0 0 48 48"><path d="M5 21h38v22H5zM8 8h32l3 13H5z"/><path d="M20 21v22h8V21M19 30h10"/></symbol>
+  <symbol id="intent-attack" viewBox="0 0 48 48"><path d="m9 7 32 32M39 7 7 39"/><path d="m5 8 7-3 2 7-5 5zm35-3 3 7-5 5-5-5z"/></symbol>
+  <symbol id="intent-defend" viewBox="0 0 48 48"><path d="M24 4 42 11v12q0 14-18 21Q6 37 6 23V11z"/></symbol>
+  <symbol id="intent-buff" viewBox="0 0 48 48"><path d="m24 4 7 12 13 3-9 10 1 14-12-6-12 6 1-14-9-10 13-3z"/></symbol>
+  <symbol id="intent-debuff" viewBox="0 0 48 48"><path d="M8 7h32v8L29 25v12l-5 6-5-6V25L8 15z"/><path d="m16 10 16 0"/></symbol>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Echobound Bop icon</title>
+  <rect width="512" height="512" rx="112" fill="#24c5c7"/>
+  <circle cx="256" cy="268" r="164" fill="#23aeb5" stroke="#151426" stroke-width="28"/>
+  <path d="M135 194q8-107 67-124l31 82M377 194q-8-107-67-124l-31 82" fill="#ffe8b5" stroke="#151426" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="202" cy="253" rx="46" ry="61" fill="#fff" stroke="#151426" stroke-width="20"/>
+  <ellipse cx="310" cy="253" rx="46" ry="61" fill="#fff" stroke="#151426" stroke-width="20"/>
+  <ellipse cx="215" cy="270" rx="17" ry="25" fill="#151426"/>
+  <ellipse cx="297" cy="270" rx="17" ry="25" fill="#151426"/>
+  <path d="M188 353q68 66 136 0" fill="#ff713d" stroke="#151426" stroke-width="24" stroke-linejoin="round"/>
+  <path d="M204 351q52 24 104 0" fill="#fff" stroke="#151426" stroke-width="13"/>
+</svg>

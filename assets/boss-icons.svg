@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="royal-wallop" viewBox="0 0 48 48"><path d="M8 25q-5-9 4-14l5 8V8q5-4 7 3V7q5-3 7 3V9q5-2 6 4v10q4-4 7 0-2 19-19 21Q12 42 8 25z"/><path d="m10 6 5 3-4 4zm28 1-5 3 4 4z"/></symbol>
+  <symbol id="seed-cannonade" viewBox="0 0 48 48"><path d="M4 18h23v12H4zM27 13l17 11-17 11z"/><ellipse cx="39" cy="7" rx="4" ry="7" transform="rotate(55 39 7)"/><ellipse cx="42" cy="39" rx="4" ry="7" transform="rotate(-55 42 39)"/></symbol>
+  <symbol id="call-court" viewBox="0 0 48 48"><path d="M24 8c-9 2-14 10-11 19 3 11 20 12 24 1 4-10-3-19-13-20z"/><path d="M19 9q-4-7 2-7m8 7q4-7 8-3M13 31 7 42m28-11 6 11"/><circle cx="20" cy="23" r="2"/><circle cx="29" cy="23" r="2"/></symbol>
+  <symbol id="rind-parry" viewBox="0 0 48 48"><path d="M24 4 42 11v12q0 14-18 21Q6 37 6 23V11z"/><path d="M11 17q13-8 26 0M14 25q10-7 20 0M18 33q6-5 12 0"/></symbol>
+  <symbol id="mustache-power" viewBox="0 0 48 48"><path d="M23 25Q12 10 3 24q5 10 20 5m2-4q11-15 20-1-5 10-20 5"/><path d="m24 3 4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/></symbol>
+  <symbol id="crown-pound" viewBox="0 0 48 48"><path d="M7 17 14 7l10 9L34 7l7 10-4 19H11z"/><path d="M9 41h30M5 35l-3 4m41-4 3 4"/></symbol>
+</svg>
