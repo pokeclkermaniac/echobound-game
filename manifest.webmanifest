@@ -1,0 +1,19 @@
+{
+  "name": "Echobound",
+  "short_name": "Echobound",
+  "description": "A playful generational creature roguelite.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#24c5c7",
+  "theme_color": "#24c5c7",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
