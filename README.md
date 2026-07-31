@@ -1,4 +1,4 @@
-# Echobound — Playable Vertical Slice 0.2
+# Echobound — Playable Vertical Slice 0.3
 
 This is a dependency-free, GitHub Pages-ready first playable checkpoint for Echobound.
 
@@ -17,7 +17,13 @@ This is a dependency-free, GitHub Pages-ready first playable checkpoint for Echo
 - Local persistence
 - Offline service worker
 - Installable app manifest and Bop app icon
-- Production SVG rigs for Bop, three regular enemies, and King Squashbuckler
+- Twenty production transparent PNG combat assets matching the selected Concept 2 art direction
+- Four visual combat states each for Bop, Crumbler, Syrup Slug, Springbean, and King Squashbuckler
+- Dynamic combat pose swapping for attacks, guards, enemy intents, damage, and defeat
+- Explicit run upgrades with visible before-and-after values
+- Correctly separated temporary run upgrades and permanent inherited traits
+- Live Bonk, HP, and starting-Guard statistics on the route and battle screens
+- Save schema v3 to prevent broken older progression data from contaminating the corrected model
 - Automated engine tests
 - GitHub Pages deployment workflow
 
@@ -41,4 +47,4 @@ Upload the contents of this directory to a repository, enable GitHub Pages with 
 
 ## Checkpoint boundary
 
-Elite encounters, animated multi-pose sprite rigs, sound, and full evolution selection belong to the next checkpoint. This version now contains the entire first-region route through its boss and inheritance.
+Elite encounters, sound, and full evolution selection belong to the next checkpoint. This version contains the entire corrected first-region route through its boss, inheritance, and a visibly stronger next generation.
